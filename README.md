@@ -3,6 +3,12 @@ Vehicle Data Analysis and Dashboard:
 This project analyzes a vehicle dataset using Python and Tableau. After cleaning and transforming the data with Python and Pandas, 
 I created an interactive dashboard in Tableau to visualize key metrics such as vehicle make, model, year, quantity, location, and MSRP. 
 Additional metrics like battery type, battery range, and type of fuel were also analyzed, providing insights into vehicle energy efficiency and market trends. 
+
+<img width="1440" alt="Screenshot 2024-11-18 at 4 35 53 PM" src="https://github.com/user-attachments/assets/1ce46283-a308-4f8e-a78d-ff4a0a73cd3e">
+
+
+
+
 This dashboard enables a vehicle manufacturer to leverage data-driven insights to optimize sales strategies and maximize revenue potential.
 
 Project Overview
@@ -33,6 +39,9 @@ Calculated Fields: Derived additional insights, including potential revenue by m
 Dashboard Creation in Tableau
 After data cleaning, I imported the dataset into Tableau to design a dashboard that visualizes important metrics:
 
+<img width="1440" alt="Screenshot 2024-11-18 at 3 27 24 PM" src="https://github.com/user-attachments/assets/88fa0b62-1e7b-4c6d-b3c2-2d5af1bf2e76">
+
+
 Top Models by State and Fuel Type: Displays the highest-selling models and fuel types by state, helping manufacturers assess regional trends.
 Battery Type and Range Analysis: Analyzes battery types and range by model and year, offering insights into energy efficiency and technology trends.
 Revenue Potential by Model, Battery Type, and Year: Examines potential revenue across models and years, segmented by battery type and MSRP.
@@ -47,7 +56,9 @@ Optimize Pricing Strategy: Evaluate how MSRP affects sales by model, region, and
 Forecast Revenue and Target Marketing: Use state-level data on model demand, fuel type, and battery metrics to design targeted marketing campaigns or sales initiatives.
 : Python scripts (or Jupyter Notebook) used for data cleaning and transformation.
 
+<img width="1440" alt="Screenshot 2024-11-18 at 2 45 49 PM" src="https://github.com/user-attachments/assets/76733684-f114-47b5-aad7-25216630c91c">
 Conclusion
+
 This project demonstrates how a vehicle manufacturer can leverage data on vehicle make, fuel type, battery range, and location-based demand to make strategic decisions. 
 The Tableau dashboard visualizes trends that help manufacturers drive revenue by adapting to market demand and energy trends.
 
